@@ -1,0 +1,68 @@
+* mkdir a
+* chdir a
+Changed directory to /a/
+* mkfile y
+* mkfile g
+* mkfile r
+* mkfile e
+* ls
+e
+g
+r
+y
+* rmfile g
+* ls
+e
+r
+y
+* chdir ..
+Changed directory to /
+* lsr
+a/
+	e
+	r
+	y
+* mkdir delete
+* chdir delete
+Changed directory to /delete/
+* mkdir rip
+* mkdir test
+* chdir rip
+Changed directory to /delete/rip/
+* mkfile goodbye
+* chdir ../././././../../../../../delete/test/..
+Changed directory to /delete/
+* mkfile sleep
+* ls
+rip/
+sleep
+test/
+* chdir ..
+Changed directory to /
+* mkfile hi
+* lsr
+a/
+	e
+	r
+	y
+delete/
+	rip/
+		goodbye
+	sleep
+	test/
+hi
+* rmdir delete
+* lsr
+a/
+	e
+	r
+	y
+hi
+* Q
+Changed directory to /
+/
+a/
+	e
+	r
+	y
+hi

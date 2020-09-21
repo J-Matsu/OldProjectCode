@@ -1,0 +1,372 @@
+* mkdir first
+* mkdir second
+* mkdir third
+* mkdir fourth
+* ls
+first/
+fourth/
+second/
+third/
+* chdir first
+Changed directory to /first/
+* mkdir numbers
+* mkfile list
+* chdir /second
+Changed directory to /second/
+* mkdir names
+* mkfile list
+* chdir ../first/numbers
+Changed directory to /first/numbers/
+* mkfile one
+* rmdir one
+Error: "one" is a file.
+* mkdir prime
+* rmfile prime
+Error: "prime" is a directory.
+* pwd
+/first/numbers/
+* ls
+one
+prime/
+* chdir /
+Changed directory to /
+* lsr
+first/
+	list
+	numbers/
+		one
+		prime/
+fourth/
+second/
+	list
+	names/
+third/
+* chdir second/names
+Changed directory to /second/names/
+* mkfile john
+* mkfile jack
+* mkfile laura
+* mkfile danny
+* chdir john
+Error: "john" in path "john" is a file.
+* ../../..
+Invalid command.
+* .
+Invalid command.
+* chdir /first/numbers/prime
+Changed directory to /first/numbers/prime/
+* mkfile two
+* mkfile three
+* chdir /third
+Changed directory to /third/
+* ls
+* mkdir system
+* mkfile list
+* chdir system
+Changed directory to /third/system/
+* mkdir bin
+* chdir bin
+Changed directory to /third/system/bin/
+* mkdir files
+* chdir files
+Changed directory to /third/system/bin/files/
+* mkdir programs
+* chdir programs
+Changed directory to /third/system/bin/files/programs/
+* mkfile dir
+* chdir ..
+Changed directory to /third/system/bin/files/
+* mkfile filenames
+* chdir ..
+Changed directory to /third/system/bin/
+* mkfile lists
+* chdir ..
+Changed directory to /third/system/
+* mkfile title
+* chdir /
+Changed directory to /
+* lsr
+first/
+	list
+	numbers/
+		one
+		prime/
+			three
+			two
+fourth/
+second/
+	list
+	names/
+		danny
+		jack
+		john
+		laura
+third/
+	list
+	system/
+		bin/
+			files/
+				filenames
+				programs/
+					dir
+			lists
+		title
+* chdir fourth
+Changed directory to /fourth/
+* mkfile funny
+* ls
+funny
+* pwd
+/fourth/
+* chdir /third/system/bin/filenames/programs
+Error: "filenames" in path "/third/system/bin/filenames/programs" does not exist.
+* chdir title
+Error: "title" in path "title" does not exist.
+* chdir first
+Error: "first" in path "first" does not exist.
+* chdir /third/system/bin/files/programs
+Changed directory to /third/system/bin/files/programs/
+* pwd
+/third/system/bin/files/programs/
+* chdir /second/names
+Changed directory to /second/names/
+* ls
+danny
+jack
+john
+laura
+* chdir /
+Changed directory to /
+* pwd
+/
+* lsr
+first/
+	list
+	numbers/
+		one
+		prime/
+			three
+			two
+fourth/
+	funny
+second/
+	list
+	names/
+		danny
+		jack
+		john
+		laura
+third/
+	list
+	system/
+		bin/
+			files/
+				filenames
+				programs/
+					dir
+			lists
+		title
+* mkfile fifth
+* mkdir sixth
+* chdir sixth
+Changed directory to /sixth/
+* mkfile count
+* mkfile cost
+* mkfile sort
+* mkfile sum
+* mkfile difference
+* mkfile weight
+* mkfile range
+* mkfile type
+* ls
+cost
+count
+difference
+range
+sort
+sum
+type
+weight
+* rmdir count
+Error: "count" is a file.
+* rmfile sort
+* ls
+cost
+count
+difference
+range
+sum
+type
+weight
+* chdir ..
+Changed directory to /
+* lsr
+fifth
+first/
+	list
+	numbers/
+		one
+		prime/
+			three
+			two
+fourth/
+	funny
+second/
+	list
+	names/
+		danny
+		jack
+		john
+		laura
+sixth/
+	cost
+	count
+	difference
+	range
+	sum
+	type
+	weight
+third/
+	list
+	system/
+		bin/
+			files/
+				filenames
+				programs/
+					dir
+			lists
+		title
+* chdir sixth
+Changed directory to /sixth/
+* ls
+cost
+count
+difference
+range
+sum
+type
+weight
+* chdir ..
+Changed directory to /
+* mkfile seventh
+* chdir seventh
+Error: "seventh" in path "seventh" is a file.
+* chdir /seventh
+Error: "seventh" in path "/seventh" is a file.
+* chdir first/numbers
+Changed directory to /first/numbers/
+* mkfile four
+* chdir prime
+Changed directory to /first/numbers/prime/
+* mkfile five
+* ls
+five
+three
+two
+* chdir ./..
+Changed directory to /first/numbers/
+* ls
+four
+one
+prime/
+* lsr
+four
+one
+prime/
+	five
+	three
+	two
+* pwd
+/first/numbers/
+* chdir /
+Changed directory to /
+* ls
+fifth
+first/
+fourth/
+second/
+seventh
+sixth/
+third/
+* lsr
+fifth
+first/
+	list
+	numbers/
+		four
+		one
+		prime/
+			five
+			three
+			two
+fourth/
+	funny
+second/
+	list
+	names/
+		danny
+		jack
+		john
+		laura
+seventh
+sixth/
+	cost
+	count
+	difference
+	range
+	sum
+	type
+	weight
+third/
+	list
+	system/
+		bin/
+			files/
+				filenames
+				programs/
+					dir
+			lists
+		title
+* pwd
+/
+* Q
+Changed directory to /
+/
+fifth
+first/
+	list
+	numbers/
+		four
+		one
+		prime/
+			five
+			three
+			two
+fourth/
+	funny
+second/
+	list
+	names/
+		danny
+		jack
+		john
+		laura
+seventh
+sixth/
+	cost
+	count
+	difference
+	range
+	sum
+	type
+	weight
+third/
+	list
+	system/
+		bin/
+			files/
+				filenames
+				programs/
+					dir
+			lists
+		title
