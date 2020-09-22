@@ -1,0 +1,482 @@
+
+Books In Library (InOrder)
+--------------------
+--------------------
+
+Customer List
+--------------------
+--------------------
+Added book "The Thing" to the library.
+Added book "The Other Thing" to the library.
+Added book "The Quick Brown Fox" to the library.
+Added book "It's a Wonderful Life" to the library.
+Added book "The Longest Yard" to the library.
+Added book "Wonderland" to the library.
+Added book "The Wizard of Oz" to the library.
+Added book "Solomon's Mines" to the library.
+Added book "The Arabian Nights" to the library.
+Added book "The Untouchables" to the library.
+Added book "A Bug's Life" to the library.
+Added book "Toy Story" to the library.
+
+Books In Library (InOrder)
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+It's a Wonderful Life, by Jimmy, ID: #3
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+Solomon's Mines, by Lawrence, ID: #6
+The Thing, by Joe, ID: #7
+The Wizard of Oz, by Dorothy, ID: #8
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+The Quick Brown Fox, by John, ID: #11
+Toy Story, by Woody, ID: #12
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+The Thing, by Joe, ID: #7
+The Other Thing, by Mary, ID: #4
+It's a Wonderful Life, by Jimmy, ID: #3
+Wonderland, by Alice, ID: #2
+The Arabian Nights, by Edward, ID: #1
+The Longest Yard, by Don, ID: #5
+Solomon's Mines, by Lawrence, ID: #6
+The Quick Brown Fox, by John, ID: #11
+The Wizard of Oz, by Dorothy, ID: #8
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+Toy Story, by Woody, ID: #12
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+It's a Wonderful Life, by Jimmy, ID: #3
+Solomon's Mines, by Lawrence, ID: #6
+The Longest Yard, by Don, ID: #5
+The Other Thing, by Mary, ID: #4
+A Bug's Life, by Walt, ID: #10
+The Untouchables, by Elliot, ID: #9
+The Wizard of Oz, by Dorothy, ID: #8
+Toy Story, by Woody, ID: #12
+The Quick Brown Fox, by John, ID: #11
+The Thing, by Joe, ID: #7
+--------------------
+
+Customer List
+--------------------
+--------------------
+
+Books Checked Out
+--------------------
+--------------------
+
+Books Checked In
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+It's a Wonderful Life, by Jimmy, ID: #3
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+Solomon's Mines, by Lawrence, ID: #6
+The Thing, by Joe, ID: #7
+The Wizard of Oz, by Dorothy, ID: #8
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+The Quick Brown Fox, by John, ID: #11
+Toy Story, by Woody, ID: #12
+--------------------
+Added customer "Jerry" to the list.
+Added customer "Susan" to the list.
+Added customer "Harry" to the list.
+Added customer "Mark" to the list.
+Added customer "Alice" to the list.
+Added customer "Maria" to the list.
+Added customer "Steve" to the list.
+
+Customer List
+--------------------
+Customer: Jerry
+Phone Number: 555-1212
+
+Customer: Susan
+Phone Number: 123-4567
+
+Customer: Harry
+Phone Number: 987-6543
+
+Customer: Mark
+Phone Number: 909-9009
+
+Customer: Alice
+Phone Number: 545-6565
+
+Customer: Maria
+Phone Number: 456-7890
+
+Customer: Steve
+Phone Number: 876-5432
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+It's a Wonderful Life, by Jimmy, ID: #3
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+Solomon's Mines, by Lawrence, ID: #6
+The Thing, by Joe, ID: #7
+The Wizard of Oz, by Dorothy, ID: #8
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+The Quick Brown Fox, by John, ID: #11
+Toy Story, by Woody, ID: #12
+--------------------
+Book #2 checked out by Maria
+Error: could not check out book.
+Book #6 checked out by Harry
+Book #7 checked out by Jerry
+Book #4 checked out by Jerry
+Book #5 checked out by Jerry
+Book #10 checked out by Jerry
+Book #9 checked out by Jerry
+
+Customer List
+--------------------
+Customer: Jerry
+Phone Number: 555-1212
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+The Thing, by Joe, ID: #7
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+
+Customer: Susan
+Phone Number: 123-4567
+
+Customer: Harry
+Phone Number: 987-6543
+Solomon's Mines, by Lawrence, ID: #6
+
+Customer: Mark
+Phone Number: 909-9009
+
+Customer: Alice
+Phone Number: 545-6565
+
+Customer: Maria
+Phone Number: 456-7890
+Wonderland, by Alice, ID: #2
+
+Customer: Steve
+Phone Number: 876-5432
+
+--------------------
+Error: Invalid Customer.
+
+Customer List
+--------------------
+Customer: Jerry
+Phone Number: 555-1212
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+The Thing, by Joe, ID: #7
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+
+Customer: Susan
+Phone Number: 123-4567
+
+Customer: Harry
+Phone Number: 987-6543
+Solomon's Mines, by Lawrence, ID: #6
+
+Customer: Mark
+Phone Number: 909-9009
+
+Customer: Alice
+Phone Number: 545-6565
+
+Customer: Maria
+Phone Number: 456-7890
+Wonderland, by Alice, ID: #2
+
+Customer: Steve
+Phone Number: 876-5432
+
+--------------------
+
+Books Checked In
+--------------------
+The Arabian Nights, by Edward, ID: #1
+It's a Wonderful Life, by Jimmy, ID: #3
+The Wizard of Oz, by Dorothy, ID: #8
+The Quick Brown Fox, by John, ID: #11
+Toy Story, by Woody, ID: #12
+--------------------
+Book #7 checked in by Jerry
+
+Customer List
+--------------------
+Customer: Jerry
+Phone Number: 555-1212
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+
+Customer: Susan
+Phone Number: 123-4567
+
+Customer: Harry
+Phone Number: 987-6543
+Solomon's Mines, by Lawrence, ID: #6
+
+Customer: Mark
+Phone Number: 909-9009
+
+Customer: Alice
+Phone Number: 545-6565
+
+Customer: Maria
+Phone Number: 456-7890
+Wonderland, by Alice, ID: #2
+
+Customer: Steve
+Phone Number: 876-5432
+
+--------------------
+
+Books Checked Out
+--------------------
+Wonderland, by Alice, ID: #2, checked out by Maria
+The Other Thing, by Mary, ID: #4, checked out by Jerry
+The Longest Yard, by Don, ID: #5, checked out by Jerry
+Solomon's Mines, by Lawrence, ID: #6, checked out by Harry
+The Untouchables, by Elliot, ID: #9, checked out by Jerry
+A Bug's Life, by Walt, ID: #10, checked out by Jerry
+--------------------
+Book #7 checked out by Jerry
+Error: could not check out book.
+Error: Invalid Customer.
+
+Customer List
+--------------------
+Customer: Jerry
+Phone Number: 555-1212
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+The Thing, by Joe, ID: #7
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+
+Customer: Susan
+Phone Number: 123-4567
+
+Customer: Harry
+Phone Number: 987-6543
+Solomon's Mines, by Lawrence, ID: #6
+
+Customer: Mark
+Phone Number: 909-9009
+
+Customer: Alice
+Phone Number: 545-6565
+
+Customer: Maria
+Phone Number: 456-7890
+Wonderland, by Alice, ID: #2
+
+Customer: Steve
+Phone Number: 876-5432
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2*
+It's a Wonderful Life, by Jimmy, ID: #3
+The Other Thing, by Mary, ID: #4*
+The Longest Yard, by Don, ID: #5*
+Solomon's Mines, by Lawrence, ID: #6*
+The Thing, by Joe, ID: #7*
+The Wizard of Oz, by Dorothy, ID: #8
+The Untouchables, by Elliot, ID: #9*
+A Bug's Life, by Walt, ID: #10*
+The Quick Brown Fox, by John, ID: #11
+Toy Story, by Woody, ID: #12
+--------------------
+Book #12 checked out by Susan
+Book #3 checked out by Mark
+Book #1 checked out by Maria
+Error: could not check out book.
+Book #11 checked out by Alice
+Book #8 checked out by Mark
+
+Customer List
+--------------------
+Customer: Jerry
+Phone Number: 555-1212
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+The Thing, by Joe, ID: #7
+The Untouchables, by Elliot, ID: #9
+A Bug's Life, by Walt, ID: #10
+
+Customer: Susan
+Phone Number: 123-4567
+Toy Story, by Woody, ID: #12
+
+Customer: Harry
+Phone Number: 987-6543
+Solomon's Mines, by Lawrence, ID: #6
+
+Customer: Mark
+Phone Number: 909-9009
+It's a Wonderful Life, by Jimmy, ID: #3
+The Wizard of Oz, by Dorothy, ID: #8
+
+Customer: Alice
+Phone Number: 545-6565
+The Quick Brown Fox, by John, ID: #11
+
+Customer: Maria
+Phone Number: 456-7890
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+
+Customer: Steve
+Phone Number: 876-5432
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Arabian Nights, by Edward, ID: #1*
+Wonderland, by Alice, ID: #2*
+It's a Wonderful Life, by Jimmy, ID: #3*
+The Other Thing, by Mary, ID: #4*
+The Longest Yard, by Don, ID: #5*
+Solomon's Mines, by Lawrence, ID: #6*
+The Thing, by Joe, ID: #7*
+The Wizard of Oz, by Dorothy, ID: #8*
+The Untouchables, by Elliot, ID: #9*
+A Bug's Life, by Walt, ID: #10*
+The Quick Brown Fox, by John, ID: #11*
+Toy Story, by Woody, ID: #12*
+--------------------
+Book #2 checked in by Maria
+Error: could not check in book.
+Book #10 checked in by Jerry
+Book #7 checked in by Jerry
+Book #1 checked in by Maria
+Error: could not check in book.
+
+Customer List
+--------------------
+Customer: Jerry
+Phone Number: 555-1212
+The Other Thing, by Mary, ID: #4
+The Longest Yard, by Don, ID: #5
+The Untouchables, by Elliot, ID: #9
+
+Customer: Susan
+Phone Number: 123-4567
+Toy Story, by Woody, ID: #12
+
+Customer: Harry
+Phone Number: 987-6543
+Solomon's Mines, by Lawrence, ID: #6
+
+Customer: Mark
+Phone Number: 909-9009
+It's a Wonderful Life, by Jimmy, ID: #3
+The Wizard of Oz, by Dorothy, ID: #8
+
+Customer: Alice
+Phone Number: 545-6565
+The Quick Brown Fox, by John, ID: #11
+
+Customer: Maria
+Phone Number: 456-7890
+
+Customer: Steve
+Phone Number: 876-5432
+
+--------------------
+
+Books Checked Out
+--------------------
+It's a Wonderful Life, by Jimmy, ID: #3, checked out by Mark
+The Other Thing, by Mary, ID: #4, checked out by Jerry
+The Longest Yard, by Don, ID: #5, checked out by Jerry
+Solomon's Mines, by Lawrence, ID: #6, checked out by Harry
+The Wizard of Oz, by Dorothy, ID: #8, checked out by Mark
+The Untouchables, by Elliot, ID: #9, checked out by Jerry
+The Quick Brown Fox, by John, ID: #11, checked out by Alice
+Toy Story, by Woody, ID: #12, checked out by Susan
+--------------------
+
+Books Checked In
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+The Thing, by Joe, ID: #7
+A Bug's Life, by Walt, ID: #10
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+The Thing, by Joe, ID: #7
+The Other Thing, by Mary, ID: #4*
+It's a Wonderful Life, by Jimmy, ID: #3*
+Wonderland, by Alice, ID: #2
+The Arabian Nights, by Edward, ID: #1
+The Longest Yard, by Don, ID: #5*
+Solomon's Mines, by Lawrence, ID: #6*
+The Quick Brown Fox, by John, ID: #11*
+The Wizard of Oz, by Dorothy, ID: #8*
+The Untouchables, by Elliot, ID: #9*
+A Bug's Life, by Walt, ID: #10
+Toy Story, by Woody, ID: #12*
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+It's a Wonderful Life, by Jimmy, ID: #3*
+Solomon's Mines, by Lawrence, ID: #6*
+The Longest Yard, by Don, ID: #5*
+The Other Thing, by Mary, ID: #4*
+A Bug's Life, by Walt, ID: #10
+The Untouchables, by Elliot, ID: #9*
+The Wizard of Oz, by Dorothy, ID: #8*
+Toy Story, by Woody, ID: #12*
+The Quick Brown Fox, by John, ID: #11*
+The Thing, by Joe, ID: #7
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Arabian Nights, by Edward, ID: #1
+Wonderland, by Alice, ID: #2
+It's a Wonderful Life, by Jimmy, ID: #3*
+The Other Thing, by Mary, ID: #4*
+The Longest Yard, by Don, ID: #5*
+Solomon's Mines, by Lawrence, ID: #6*
+The Thing, by Joe, ID: #7
+The Wizard of Oz, by Dorothy, ID: #8*
+The Untouchables, by Elliot, ID: #9*
+A Bug's Life, by Walt, ID: #10
+The Quick Brown Fox, by John, ID: #11*
+Toy Story, by Woody, ID: #12*
+--------------------
+Quitting Program...
