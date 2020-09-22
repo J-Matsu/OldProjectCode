@@ -1,0 +1,70 @@
+Q
+P
+A	The Thing		Joe	7
+A	The Other Thing		Mary	4
+A	The Quick Brown Fox	John	11
+A	It's a Wonderful Life	Jimmy	3
+A	The Longest Yard	Don	5
+A	Wonderland		Alice	2
+A	The Wizard of Oz	Dorothy	8
+A	Solomon's Mines		Lawrence	6
+A	The Arabian Nights	Edward	1
+A	The Untouchables	Elliot	9
+A	A Bug's Life		Walt	10
+A	Toy Story		Woody	12
+Q
+R
+S
+P
+O
+N
+B	Jerry	555-1212
+B	Susan	123-4567
+B	Harry	987-6543
+B	Mark	909-9009
+B	Alice	545-6565
+B	Maria	456-7890
+B	Steve	876-5432
+P
+Q
+C	2	Maria
+C	2	Mark
+C	6	Harry
+C	7	Jerry
+C	4	Jerry
+C	5	Jerry
+C	10	Jerry
+C	9	Jerry
+P
+C	3	Lawrence
+P
+N
+I	7	Jerry
+P
+O
+C	7	Jerry
+C	13	Jerry
+C	13	Lawrence
+P
+Q
+C	12	Susan
+C	3	Mark
+C	1	Maria
+C	12	Steve
+C	11	Alice
+C	8	Mark
+P
+Q
+I	2	Maria
+I	11	Maria
+I	10	Jerry
+I	7	Jerry
+I	1	Maria
+I	10	Jerry
+P
+O
+N
+R
+S
+Q
+Z

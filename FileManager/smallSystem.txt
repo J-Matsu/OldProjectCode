@@ -1,0 +1,26 @@
+mkdir a
+chdir a
+mkfile y
+mkfile g
+mkfile r
+mkfile e
+ls
+rmfile g
+ls
+chdir ..
+lsr
+mkdir delete
+chdir delete
+mkdir rip
+mkdir test
+chdir rip
+mkfile goodbye
+chdir ../././././../../../../../delete/test/..
+mkfile sleep
+ls
+chdir ..
+mkfile hi
+lsr
+rmdir delete
+lsr
+Q

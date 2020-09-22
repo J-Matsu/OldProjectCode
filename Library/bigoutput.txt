@@ -1,0 +1,1208 @@
+
+Books In Library (InOrder)
+--------------------
+--------------------
+Added book "Stuff" to the library.
+Added book "More Stuff" to the library.
+Added book "Words and Words" to the library.
+Added book "Test Book" to the library.
+Added book "Purple Prose" to the library.
+Added book "Fun Times Pt. 1" to the library.
+Added book "Fun Times Pt. 2" to the library.
+Added book "Fun Times Pt. 3" to the library.
+Added book "Fun Times Pt. 4" to the library.
+Added book "Fun Times Pt. 5" to the library.
+Added book "The Big Encyclopedia" to the library.
+Added book "Your Average Dictionary" to the library.
+Added book "Sorting Algorithms" to the library.
+Added book "Textures" to the library.
+Added book "Night Game" to the library.
+Added book "Books of Books" to the library.
+Added book "Lifts" to the library.
+Added book "Guide to the World" to the library.
+Added book "Historia" to the library.
+Added book "99" to the library.
+Added book "Title Theme" to the library.
+Added book "Zzzzz...." to the library.
+Added book "Another Fantasy" to the library.
+Added book "Twists" to the library.
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64
+Historia, by Olden, ID: #79
+99, by Counts, ID: #99
+Sorting Algorithms, by Shell, ID: #101
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Stuff, by Johnson, ID: #163
+Words and Words, by Walker, ID: #170
+Night Game, by White, ID: #174
+Another Fantasy, by Faria, ID: #177
+More Stuff, by Johnson, ID: #179
+Lifts, by Chang, ID: #199
+--------------------
+Added customer "James" to the list.
+Added customer "Jack" to the list.
+Added customer "Joseph" to the list.
+Added customer "Chris" to the list.
+Added customer "Max" to the list.
+Added customer "Anna" to the list.
+Added customer "Laura" to the list.
+Added customer "Misty" to the list.
+Added customer "Molly" to the list.
+Added customer "Sally" to the list.
+Book #50 checked out by Laura
+Error: could not check out book.
+Book #1 checked out by Joseph
+Book #2 checked out by Joseph
+Book #163 checked out by James
+Book #5 checked out by Molly
+Book #199 checked out by Sally
+Error: could not check out book.
+Book #35 checked out by Max
+Book #174 checked out by Jack
+
+Books Checked In
+--------------------
+Zzzzz...., by Sleepy, ID: #26
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64
+Historia, by Olden, ID: #79
+99, by Counts, ID: #99
+Sorting Algorithms, by Shell, ID: #101
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Words and Words, by Walker, ID: #170
+Another Fantasy, by Faria, ID: #177
+More Stuff, by Johnson, ID: #179
+--------------------
+
+Books Checked Out
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1, checked out by Joseph
+Your Average Dictionary, by Webs, ID: #2, checked out by Joseph
+Books of Books, by Booker, ID: #5, checked out by Molly
+Guide to the World, by Advent, ID: #35, checked out by Max
+Fun Times Pt. 1, by Jackson, ID: #50, checked out by Laura
+Stuff, by Johnson, ID: #163, checked out by James
+Night Game, by White, ID: #174, checked out by Jack
+Lifts, by Chang, ID: #199, checked out by Sally
+--------------------
+
+Customer List
+--------------------
+Customer: James
+Phone Number: 555-2993
+Stuff, by Johnson, ID: #163
+
+Customer: Jack
+Phone Number: 612-2146
+Night Game, by White, ID: #174
+
+Customer: Joseph
+Phone Number: 717-1717
+The Big Encyclopedia, by Worlds, ID: #1
+Your Average Dictionary, by Webs, ID: #2
+
+Customer: Chris
+Phone Number: 999-1253
+
+Customer: Max
+Phone Number: 143-2153
+Guide to the World, by Advent, ID: #35
+
+Customer: Anna
+Phone Number: 789-9887
+
+Customer: Laura
+Phone Number: 515-1557
+Fun Times Pt. 1, by Jackson, ID: #50
+
+Customer: Misty
+Phone Number: 333-3333
+
+Customer: Molly
+Phone Number: 166-8188
+Books of Books, by Booker, ID: #5
+
+Customer: Sally
+Phone Number: 873-3882
+Lifts, by Chang, ID: #199
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35*
+Fun Times Pt. 1, by Jackson, ID: #50*
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64
+Historia, by Olden, ID: #79
+99, by Counts, ID: #99
+Sorting Algorithms, by Shell, ID: #101
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Stuff, by Johnson, ID: #163*
+Words and Words, by Walker, ID: #170
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177
+More Stuff, by Johnson, ID: #179
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+Stuff, by Johnson, ID: #163*
+Test Book, by Redds, ID: #154
+Fun Times Pt. 1, by Jackson, ID: #50*
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Guide to the World, by Advent, ID: #35*
+Zzzzz...., by Sleepy, ID: #26
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Sorting Algorithms, by Shell, ID: #101
+Historia, by Olden, ID: #79
+Title Theme, by Musica, ID: #64
+99, by Counts, ID: #99
+Textures, by Weaver, ID: #139
+Twists, by Danger, ID: #122
+Purple Prose, by Trops, ID: #157
+More Stuff, by Johnson, ID: #179
+Words and Words, by Walker, ID: #170
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35*
+Books of Books, by Booker, ID: #5*
+Your Average Dictionary, by Webs, ID: #2*
+The Big Encyclopedia, by Worlds, ID: #1*
+Title Theme, by Musica, ID: #64
+99, by Counts, ID: #99
+Historia, by Olden, ID: #79
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Sorting Algorithms, by Shell, ID: #101
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 1, by Jackson, ID: #50*
+Purple Prose, by Trops, ID: #157
+Test Book, by Redds, ID: #154
+Another Fantasy, by Faria, ID: #177
+Night Game, by White, ID: #174*
+Words and Words, by Walker, ID: #170
+Lifts, by Chang, ID: #199*
+More Stuff, by Johnson, ID: #179
+Stuff, by Johnson, ID: #163*
+--------------------
+Book #50 checked in by Laura
+Book #51 checked out by Laura
+Book #50 checked out by Max
+Book #35 checked in by Max
+Book #35 checked out by Anna
+Book #79 checked out by Joseph
+Book #2 checked in by Joseph
+Book #99 checked out by Chris
+Book #26 checked out by Chris
+Book #177 checked out by Misty
+Book #50 checked in by Max
+Error: could not check out book.
+Book #170 checked out by Max
+
+Books Checked In
+--------------------
+Your Average Dictionary, by Webs, ID: #2
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64
+Sorting Algorithms, by Shell, ID: #101
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+More Stuff, by Johnson, ID: #179
+--------------------
+
+Books Checked Out
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1, checked out by Joseph
+Books of Books, by Booker, ID: #5, checked out by Molly
+Zzzzz...., by Sleepy, ID: #26, checked out by Chris
+Guide to the World, by Advent, ID: #35, checked out by Anna
+Fun Times Pt. 2, by Jackson, ID: #51, checked out by Laura
+Historia, by Olden, ID: #79, checked out by Joseph
+99, by Counts, ID: #99, checked out by Chris
+Stuff, by Johnson, ID: #163, checked out by James
+Words and Words, by Walker, ID: #170, checked out by Max
+Night Game, by White, ID: #174, checked out by Jack
+Another Fantasy, by Faria, ID: #177, checked out by Misty
+Lifts, by Chang, ID: #199, checked out by Sally
+--------------------
+
+Customer List
+--------------------
+Customer: James
+Phone Number: 555-2993
+Stuff, by Johnson, ID: #163
+
+Customer: Jack
+Phone Number: 612-2146
+Night Game, by White, ID: #174
+
+Customer: Joseph
+Phone Number: 717-1717
+The Big Encyclopedia, by Worlds, ID: #1
+Historia, by Olden, ID: #79
+
+Customer: Chris
+Phone Number: 999-1253
+Zzzzz...., by Sleepy, ID: #26
+99, by Counts, ID: #99
+
+Customer: Max
+Phone Number: 143-2153
+Words and Words, by Walker, ID: #170
+
+Customer: Anna
+Phone Number: 789-9887
+Guide to the World, by Advent, ID: #35
+
+Customer: Laura
+Phone Number: 515-1557
+Fun Times Pt. 2, by Jackson, ID: #51
+
+Customer: Misty
+Phone Number: 333-3333
+Another Fantasy, by Faria, ID: #177
+
+Customer: Molly
+Phone Number: 166-8188
+Books of Books, by Booker, ID: #5
+
+Customer: Sally
+Phone Number: 873-3882
+Lifts, by Chang, ID: #199
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5*
+Zzzzz...., by Sleepy, ID: #26*
+Guide to the World, by Advent, ID: #35*
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51*
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64
+Historia, by Olden, ID: #79*
+99, by Counts, ID: #99*
+Sorting Algorithms, by Shell, ID: #101
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Stuff, by Johnson, ID: #163*
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177*
+More Stuff, by Johnson, ID: #179
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+Stuff, by Johnson, ID: #163*
+Test Book, by Redds, ID: #154
+Fun Times Pt. 1, by Jackson, ID: #50
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5*
+Guide to the World, by Advent, ID: #35*
+Zzzzz...., by Sleepy, ID: #26*
+Fun Times Pt. 2, by Jackson, ID: #51*
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Sorting Algorithms, by Shell, ID: #101
+Historia, by Olden, ID: #79*
+Title Theme, by Musica, ID: #64
+99, by Counts, ID: #99*
+Textures, by Weaver, ID: #139
+Twists, by Danger, ID: #122
+Purple Prose, by Trops, ID: #157
+More Stuff, by Johnson, ID: #179
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177*
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+Zzzzz...., by Sleepy, ID: #26*
+Guide to the World, by Advent, ID: #35*
+Books of Books, by Booker, ID: #5*
+Your Average Dictionary, by Webs, ID: #2
+The Big Encyclopedia, by Worlds, ID: #1*
+Title Theme, by Musica, ID: #64
+99, by Counts, ID: #99*
+Historia, by Olden, ID: #79*
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Sorting Algorithms, by Shell, ID: #101
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 2, by Jackson, ID: #51*
+Fun Times Pt. 1, by Jackson, ID: #50
+Purple Prose, by Trops, ID: #157
+Test Book, by Redds, ID: #154
+Another Fantasy, by Faria, ID: #177*
+Night Game, by White, ID: #174*
+Words and Words, by Walker, ID: #170*
+Lifts, by Chang, ID: #199*
+More Stuff, by Johnson, ID: #179
+Stuff, by Johnson, ID: #163*
+--------------------
+Error: could not check in book.
+Error: could not check in book.
+Error: Invalid Customer.
+Book #5 checked in by Molly
+Error: Invalid Customer.
+Error: Invalid Customer.
+Book #1 checked in by Joseph
+Book #179 checked out by James
+Book #139 checked out by James
+Book #1 checked out by James
+Book #99 checked in by Chris
+Error: could not check out book.
+Book #122 checked out by Chris
+Book #154 checked out by Chris
+Book #157 checked out by Chris
+Book #174 checked in by Jack
+Error: could not check in book.
+Book #51 checked in by Laura
+Book #52 checked out by Laura
+Book #51 checked out by Max
+
+Books Checked In
+--------------------
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64
+99, by Counts, ID: #99
+Sorting Algorithms, by Shell, ID: #101
+Night Game, by White, ID: #174
+--------------------
+
+Books Checked Out
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1, checked out by James
+Zzzzz...., by Sleepy, ID: #26, checked out by Chris
+Guide to the World, by Advent, ID: #35, checked out by Anna
+Fun Times Pt. 2, by Jackson, ID: #51, checked out by Max
+Fun Times Pt. 3, by Jackson, ID: #52, checked out by Laura
+Historia, by Olden, ID: #79, checked out by Joseph
+Twists, by Danger, ID: #122, checked out by Chris
+Textures, by Weaver, ID: #139, checked out by James
+Test Book, by Redds, ID: #154, checked out by Chris
+Purple Prose, by Trops, ID: #157, checked out by Chris
+Stuff, by Johnson, ID: #163, checked out by James
+Words and Words, by Walker, ID: #170, checked out by Max
+Another Fantasy, by Faria, ID: #177, checked out by Misty
+More Stuff, by Johnson, ID: #179, checked out by James
+Lifts, by Chang, ID: #199, checked out by Sally
+--------------------
+
+Customer List
+--------------------
+Customer: James
+Phone Number: 555-2993
+The Big Encyclopedia, by Worlds, ID: #1
+Textures, by Weaver, ID: #139
+Stuff, by Johnson, ID: #163
+More Stuff, by Johnson, ID: #179
+
+Customer: Jack
+Phone Number: 612-2146
+
+Customer: Joseph
+Phone Number: 717-1717
+Historia, by Olden, ID: #79
+
+Customer: Chris
+Phone Number: 999-1253
+Zzzzz...., by Sleepy, ID: #26
+Twists, by Danger, ID: #122
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+
+Customer: Max
+Phone Number: 143-2153
+Fun Times Pt. 2, by Jackson, ID: #51
+Words and Words, by Walker, ID: #170
+
+Customer: Anna
+Phone Number: 789-9887
+Guide to the World, by Advent, ID: #35
+
+Customer: Laura
+Phone Number: 515-1557
+Fun Times Pt. 3, by Jackson, ID: #52
+
+Customer: Misty
+Phone Number: 333-3333
+Another Fantasy, by Faria, ID: #177
+
+Customer: Molly
+Phone Number: 166-8188
+
+Customer: Sally
+Phone Number: 873-3882
+Lifts, by Chang, ID: #199
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5
+Zzzzz...., by Sleepy, ID: #26*
+Guide to the World, by Advent, ID: #35*
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51*
+Fun Times Pt. 3, by Jackson, ID: #52*
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64
+Historia, by Olden, ID: #79*
+99, by Counts, ID: #99
+Sorting Algorithms, by Shell, ID: #101
+Twists, by Danger, ID: #122*
+Textures, by Weaver, ID: #139*
+Test Book, by Redds, ID: #154*
+Purple Prose, by Trops, ID: #157*
+Stuff, by Johnson, ID: #163*
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174
+Another Fantasy, by Faria, ID: #177*
+More Stuff, by Johnson, ID: #179*
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+Stuff, by Johnson, ID: #163*
+Test Book, by Redds, ID: #154*
+Fun Times Pt. 1, by Jackson, ID: #50
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5
+Guide to the World, by Advent, ID: #35*
+Zzzzz...., by Sleepy, ID: #26*
+Fun Times Pt. 2, by Jackson, ID: #51*
+Fun Times Pt. 3, by Jackson, ID: #52*
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Sorting Algorithms, by Shell, ID: #101
+Historia, by Olden, ID: #79*
+Title Theme, by Musica, ID: #64
+99, by Counts, ID: #99
+Textures, by Weaver, ID: #139*
+Twists, by Danger, ID: #122*
+Purple Prose, by Trops, ID: #157*
+More Stuff, by Johnson, ID: #179*
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174
+Another Fantasy, by Faria, ID: #177*
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+Zzzzz...., by Sleepy, ID: #26*
+Guide to the World, by Advent, ID: #35*
+Books of Books, by Booker, ID: #5
+Your Average Dictionary, by Webs, ID: #2
+The Big Encyclopedia, by Worlds, ID: #1*
+Title Theme, by Musica, ID: #64
+99, by Counts, ID: #99
+Historia, by Olden, ID: #79*
+Twists, by Danger, ID: #122*
+Textures, by Weaver, ID: #139*
+Sorting Algorithms, by Shell, ID: #101
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 3, by Jackson, ID: #52*
+Fun Times Pt. 2, by Jackson, ID: #51*
+Fun Times Pt. 1, by Jackson, ID: #50
+Purple Prose, by Trops, ID: #157*
+Test Book, by Redds, ID: #154*
+Another Fantasy, by Faria, ID: #177*
+Night Game, by White, ID: #174
+Words and Words, by Walker, ID: #170*
+Lifts, by Chang, ID: #199*
+More Stuff, by Johnson, ID: #179*
+Stuff, by Johnson, ID: #163*
+--------------------
+Book #51 checked in by Max
+Book #52 checked in by Laura
+Book #53 checked out by Laura
+Book #52 checked out by Max
+Error: could not check out book.
+Book #101 checked out by Sally
+Book #174 checked out by Sally
+Book #2 checked out by Sally
+Book #5 checked out by Sally
+Book #64 checked out by Sally
+Book #199 checked in by Sally
+Book #139 checked in by James
+Error: could not check in book.
+Book #79 checked in by Joseph
+Error: could not check out book.
+Book #122 checked in by Chris
+Error: could not check in book.
+Book #35 checked in by Anna
+Book #122 checked out by Anna
+
+Books Checked In
+--------------------
+Guide to the World, by Advent, ID: #35
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 5, by Jackson, ID: #54
+Historia, by Olden, ID: #79
+99, by Counts, ID: #99
+Textures, by Weaver, ID: #139
+Lifts, by Chang, ID: #199
+--------------------
+
+Books Checked Out
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1, checked out by James
+Your Average Dictionary, by Webs, ID: #2, checked out by Sally
+Books of Books, by Booker, ID: #5, checked out by Sally
+Zzzzz...., by Sleepy, ID: #26, checked out by Chris
+Fun Times Pt. 3, by Jackson, ID: #52, checked out by Max
+Fun Times Pt. 4, by Jackson, ID: #53, checked out by Laura
+Title Theme, by Musica, ID: #64, checked out by Sally
+Sorting Algorithms, by Shell, ID: #101, checked out by Sally
+Twists, by Danger, ID: #122, checked out by Anna
+Test Book, by Redds, ID: #154, checked out by Chris
+Purple Prose, by Trops, ID: #157, checked out by Chris
+Stuff, by Johnson, ID: #163, checked out by James
+Words and Words, by Walker, ID: #170, checked out by Max
+Night Game, by White, ID: #174, checked out by Sally
+Another Fantasy, by Faria, ID: #177, checked out by Misty
+More Stuff, by Johnson, ID: #179, checked out by James
+--------------------
+
+Customer List
+--------------------
+Customer: James
+Phone Number: 555-2993
+The Big Encyclopedia, by Worlds, ID: #1
+Stuff, by Johnson, ID: #163
+More Stuff, by Johnson, ID: #179
+
+Customer: Jack
+Phone Number: 612-2146
+
+Customer: Joseph
+Phone Number: 717-1717
+
+Customer: Chris
+Phone Number: 999-1253
+Zzzzz...., by Sleepy, ID: #26
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+
+Customer: Max
+Phone Number: 143-2153
+Fun Times Pt. 3, by Jackson, ID: #52
+Words and Words, by Walker, ID: #170
+
+Customer: Anna
+Phone Number: 789-9887
+Twists, by Danger, ID: #122
+
+Customer: Laura
+Phone Number: 515-1557
+Fun Times Pt. 4, by Jackson, ID: #53
+
+Customer: Misty
+Phone Number: 333-3333
+Another Fantasy, by Faria, ID: #177
+
+Customer: Molly
+Phone Number: 166-8188
+
+Customer: Sally
+Phone Number: 873-3882
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5
+Title Theme, by Musica, ID: #64
+Sorting Algorithms, by Shell, ID: #101
+Night Game, by White, ID: #174
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Zzzzz...., by Sleepy, ID: #26*
+Guide to the World, by Advent, ID: #35
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52*
+Fun Times Pt. 4, by Jackson, ID: #53*
+Fun Times Pt. 5, by Jackson, ID: #54
+Title Theme, by Musica, ID: #64*
+Historia, by Olden, ID: #79
+99, by Counts, ID: #99
+Sorting Algorithms, by Shell, ID: #101*
+Twists, by Danger, ID: #122*
+Textures, by Weaver, ID: #139
+Test Book, by Redds, ID: #154*
+Purple Prose, by Trops, ID: #157*
+Stuff, by Johnson, ID: #163*
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177*
+More Stuff, by Johnson, ID: #179*
+Lifts, by Chang, ID: #199
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+Stuff, by Johnson, ID: #163*
+Test Book, by Redds, ID: #154*
+Fun Times Pt. 1, by Jackson, ID: #50
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Guide to the World, by Advent, ID: #35
+Zzzzz...., by Sleepy, ID: #26*
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52*
+Fun Times Pt. 4, by Jackson, ID: #53*
+Fun Times Pt. 5, by Jackson, ID: #54
+Sorting Algorithms, by Shell, ID: #101*
+Historia, by Olden, ID: #79
+Title Theme, by Musica, ID: #64*
+99, by Counts, ID: #99
+Textures, by Weaver, ID: #139
+Twists, by Danger, ID: #122*
+Purple Prose, by Trops, ID: #157*
+More Stuff, by Johnson, ID: #179*
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177*
+Lifts, by Chang, ID: #199
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+Zzzzz...., by Sleepy, ID: #26*
+Guide to the World, by Advent, ID: #35
+Books of Books, by Booker, ID: #5*
+Your Average Dictionary, by Webs, ID: #2*
+The Big Encyclopedia, by Worlds, ID: #1*
+Title Theme, by Musica, ID: #64*
+99, by Counts, ID: #99
+Historia, by Olden, ID: #79
+Twists, by Danger, ID: #122*
+Textures, by Weaver, ID: #139
+Sorting Algorithms, by Shell, ID: #101*
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 4, by Jackson, ID: #53*
+Fun Times Pt. 3, by Jackson, ID: #52*
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 1, by Jackson, ID: #50
+Purple Prose, by Trops, ID: #157*
+Test Book, by Redds, ID: #154*
+Another Fantasy, by Faria, ID: #177*
+Night Game, by White, ID: #174*
+Words and Words, by Walker, ID: #170*
+Lifts, by Chang, ID: #199
+More Stuff, by Johnson, ID: #179*
+Stuff, by Johnson, ID: #163*
+--------------------
+Book #52 checked in by Max
+Book #53 checked in by Laura
+Book #54 checked out by Laura
+Book #53 checked out by Max
+Book #79 checked out by Anna
+Book #99 checked out by Anna
+Book #139 checked out by Anna
+Book #199 checked out by Anna
+Book #35 checked out by Misty
+Book #177 checked in by Misty
+Book #1 checked in by James
+Could not remove book #163 from library.
+Book #163 checked in by James
+Book #179 checked in by James
+Book #163 checked out by Jack
+Book #179 checked out by Jack
+Book #101 checked in by Sally
+Book #64 checked in by Sally
+Error: could not check in book.
+Book #64 checked out by Joseph
+Error: could not check out book.
+Book #157 checked in by Chris
+Book #26 checked in by Chris
+Book #154 checked in by Chris
+Error: could not check in book.
+
+Books Checked In
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1
+Zzzzz...., by Sleepy, ID: #26
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Sorting Algorithms, by Shell, ID: #101
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Another Fantasy, by Faria, ID: #177
+--------------------
+
+Books Checked Out
+--------------------
+Your Average Dictionary, by Webs, ID: #2, checked out by Sally
+Books of Books, by Booker, ID: #5, checked out by Sally
+Guide to the World, by Advent, ID: #35, checked out by Misty
+Fun Times Pt. 4, by Jackson, ID: #53, checked out by Max
+Fun Times Pt. 5, by Jackson, ID: #54, checked out by Laura
+Title Theme, by Musica, ID: #64, checked out by Joseph
+Historia, by Olden, ID: #79, checked out by Anna
+99, by Counts, ID: #99, checked out by Anna
+Twists, by Danger, ID: #122, checked out by Anna
+Textures, by Weaver, ID: #139, checked out by Anna
+Stuff, by Johnson, ID: #163, checked out by Jack
+Words and Words, by Walker, ID: #170, checked out by Max
+Night Game, by White, ID: #174, checked out by Sally
+More Stuff, by Johnson, ID: #179, checked out by Jack
+Lifts, by Chang, ID: #199, checked out by Anna
+--------------------
+
+Customer List
+--------------------
+Customer: James
+Phone Number: 555-2993
+
+Customer: Jack
+Phone Number: 612-2146
+Stuff, by Johnson, ID: #163
+More Stuff, by Johnson, ID: #179
+
+Customer: Joseph
+Phone Number: 717-1717
+Title Theme, by Musica, ID: #64
+
+Customer: Chris
+Phone Number: 999-1253
+
+Customer: Max
+Phone Number: 143-2153
+Fun Times Pt. 4, by Jackson, ID: #53
+Words and Words, by Walker, ID: #170
+
+Customer: Anna
+Phone Number: 789-9887
+Historia, by Olden, ID: #79
+99, by Counts, ID: #99
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139
+Lifts, by Chang, ID: #199
+
+Customer: Laura
+Phone Number: 515-1557
+Fun Times Pt. 5, by Jackson, ID: #54
+
+Customer: Misty
+Phone Number: 333-3333
+Guide to the World, by Advent, ID: #35
+
+Customer: Molly
+Phone Number: 166-8188
+
+Customer: Sally
+Phone Number: 873-3882
+Your Average Dictionary, by Webs, ID: #2
+Books of Books, by Booker, ID: #5
+Night Game, by White, ID: #174
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35*
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53*
+Fun Times Pt. 5, by Jackson, ID: #54*
+Title Theme, by Musica, ID: #64*
+Historia, by Olden, ID: #79*
+99, by Counts, ID: #99*
+Sorting Algorithms, by Shell, ID: #101
+Twists, by Danger, ID: #122*
+Textures, by Weaver, ID: #139*
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Stuff, by Johnson, ID: #163*
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177
+More Stuff, by Johnson, ID: #179*
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+Stuff, by Johnson, ID: #163*
+Test Book, by Redds, ID: #154
+Fun Times Pt. 1, by Jackson, ID: #50
+The Big Encyclopedia, by Worlds, ID: #1
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Guide to the World, by Advent, ID: #35*
+Zzzzz...., by Sleepy, ID: #26
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53*
+Fun Times Pt. 5, by Jackson, ID: #54*
+Sorting Algorithms, by Shell, ID: #101
+Historia, by Olden, ID: #79*
+Title Theme, by Musica, ID: #64*
+99, by Counts, ID: #99*
+Textures, by Weaver, ID: #139*
+Twists, by Danger, ID: #122*
+Purple Prose, by Trops, ID: #157
+More Stuff, by Johnson, ID: #179*
+Words and Words, by Walker, ID: #170*
+Night Game, by White, ID: #174*
+Another Fantasy, by Faria, ID: #177
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35*
+Books of Books, by Booker, ID: #5*
+Your Average Dictionary, by Webs, ID: #2*
+The Big Encyclopedia, by Worlds, ID: #1
+Title Theme, by Musica, ID: #64*
+99, by Counts, ID: #99*
+Historia, by Olden, ID: #79*
+Twists, by Danger, ID: #122*
+Textures, by Weaver, ID: #139*
+Sorting Algorithms, by Shell, ID: #101
+Fun Times Pt. 5, by Jackson, ID: #54*
+Fun Times Pt. 4, by Jackson, ID: #53*
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 1, by Jackson, ID: #50
+Purple Prose, by Trops, ID: #157
+Test Book, by Redds, ID: #154
+Another Fantasy, by Faria, ID: #177
+Night Game, by White, ID: #174*
+Words and Words, by Walker, ID: #170*
+Lifts, by Chang, ID: #199*
+More Stuff, by Johnson, ID: #179*
+Stuff, by Johnson, ID: #163*
+--------------------
+Book #54 checked in by Laura
+Book #53 checked in by Max
+Book #54 checked out by Max
+Book #163 checked in by Jack
+Book #179 checked in by Jack
+Book #101 checked out by Jack
+Book #154 checked out by Jack
+Book #177 checked out by Jack
+Book #35 checked in by Misty
+Error: could not check out book.
+Error: could not check out book.
+Book #54 checked in by Max
+Book #1 checked out by Max
+Book #2 checked in by Sally
+Book #5 checked in by Sally
+Book #2 checked out by Max
+Book #5 checked out by James
+Book #99 checked in by Anna
+Book #79 checked in by Anna
+Book #199 checked in by Anna
+Book #139 checked in by Anna
+Book #122 checked in by Anna
+Book #99 checked out by Sally
+Book #199 checked out by Jack
+Book #79 checked out by Joseph
+Book #64 checked in by Joseph
+Book #26 checked out by Molly
+Book #64 checked out by Molly
+Error: could not check out book.
+Book #139 checked out by Molly
+Book #163 checked out by James
+Book #179 checked out by James
+Book #154 checked in by Jack
+Book #170 checked in by Max
+Book #154 checked out by James
+Book #170 checked out by James
+Book #157 checked out by James
+Book #174 checked in by Sally
+Added book "Fun Times Pt. 6" to the library.
+Book #55 checked out by Max
+Error: could not check out book.
+Error: could not check out book.
+Error: could not check out book.
+Error: Invalid Customer.
+Book #55 checked in by Max
+Book #55 checked out by Laura
+Book #179 checked in by James
+Book #154 checked in by James
+Book #163 checked in by James
+Could not remove book #162 from library.
+Removed "Stuff" (#163) from the library.
+Removed "More Stuff" (#179) from the library.
+Book #157 checked in by James
+Book #170 checked in by James
+Error: could not check in book.
+Book #177 checked in by Jack
+Book #26 checked in by Molly
+Book #55 checked in by Laura
+Book #177 checked out by Laura
+Removed "Words and Words" (#170) from the library.
+
+Books Checked In
+--------------------
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 6, by Jackson, ID: #55
+Twists, by Danger, ID: #122
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Night Game, by White, ID: #174
+--------------------
+
+Books Checked Out
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1, checked out by Max
+Your Average Dictionary, by Webs, ID: #2, checked out by Max
+Books of Books, by Booker, ID: #5, checked out by James
+Title Theme, by Musica, ID: #64, checked out by Molly
+Historia, by Olden, ID: #79, checked out by Joseph
+99, by Counts, ID: #99, checked out by Sally
+Sorting Algorithms, by Shell, ID: #101, checked out by Jack
+Textures, by Weaver, ID: #139, checked out by Molly
+Another Fantasy, by Faria, ID: #177, checked out by Laura
+Lifts, by Chang, ID: #199, checked out by Jack
+--------------------
+
+Customer List
+--------------------
+Customer: James
+Phone Number: 555-2993
+Books of Books, by Booker, ID: #5
+
+Customer: Jack
+Phone Number: 612-2146
+Sorting Algorithms, by Shell, ID: #101
+Lifts, by Chang, ID: #199
+
+Customer: Joseph
+Phone Number: 717-1717
+Historia, by Olden, ID: #79
+
+Customer: Chris
+Phone Number: 999-1253
+
+Customer: Max
+Phone Number: 143-2153
+The Big Encyclopedia, by Worlds, ID: #1
+Your Average Dictionary, by Webs, ID: #2
+
+Customer: Anna
+Phone Number: 789-9887
+
+Customer: Laura
+Phone Number: 515-1557
+Another Fantasy, by Faria, ID: #177
+
+Customer: Misty
+Phone Number: 333-3333
+
+Customer: Molly
+Phone Number: 166-8188
+Title Theme, by Musica, ID: #64
+Textures, by Weaver, ID: #139
+
+Customer: Sally
+Phone Number: 873-3882
+99, by Counts, ID: #99
+
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 6, by Jackson, ID: #55
+Title Theme, by Musica, ID: #64*
+Historia, by Olden, ID: #79*
+99, by Counts, ID: #99*
+Sorting Algorithms, by Shell, ID: #101*
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139*
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Night Game, by White, ID: #174
+Another Fantasy, by Faria, ID: #177*
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PreOrder)
+--------------------
+Purple Prose, by Trops, ID: #157
+Test Book, by Redds, ID: #154
+Fun Times Pt. 1, by Jackson, ID: #50
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Guide to the World, by Advent, ID: #35
+Zzzzz...., by Sleepy, ID: #26
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Sorting Algorithms, by Shell, ID: #101*
+Historia, by Olden, ID: #79*
+Title Theme, by Musica, ID: #64*
+Fun Times Pt. 6, by Jackson, ID: #55
+99, by Counts, ID: #99*
+Textures, by Weaver, ID: #139*
+Twists, by Danger, ID: #122
+Another Fantasy, by Faria, ID: #177*
+Night Game, by White, ID: #174
+Lifts, by Chang, ID: #199*
+--------------------
+
+Books In Library (PostOrder)
+--------------------
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35
+Books of Books, by Booker, ID: #5*
+Your Average Dictionary, by Webs, ID: #2*
+The Big Encyclopedia, by Worlds, ID: #1*
+Fun Times Pt. 6, by Jackson, ID: #55
+Title Theme, by Musica, ID: #64*
+99, by Counts, ID: #99*
+Historia, by Olden, ID: #79*
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139*
+Sorting Algorithms, by Shell, ID: #101*
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 1, by Jackson, ID: #50
+Test Book, by Redds, ID: #154
+Night Game, by White, ID: #174
+Lifts, by Chang, ID: #199*
+Another Fantasy, by Faria, ID: #177*
+Purple Prose, by Trops, ID: #157
+--------------------
+
+Books In Library (InOrder)
+--------------------
+The Big Encyclopedia, by Worlds, ID: #1*
+Your Average Dictionary, by Webs, ID: #2*
+Books of Books, by Booker, ID: #5*
+Zzzzz...., by Sleepy, ID: #26
+Guide to the World, by Advent, ID: #35
+Fun Times Pt. 1, by Jackson, ID: #50
+Fun Times Pt. 2, by Jackson, ID: #51
+Fun Times Pt. 3, by Jackson, ID: #52
+Fun Times Pt. 4, by Jackson, ID: #53
+Fun Times Pt. 5, by Jackson, ID: #54
+Fun Times Pt. 6, by Jackson, ID: #55
+Title Theme, by Musica, ID: #64*
+Historia, by Olden, ID: #79*
+99, by Counts, ID: #99*
+Sorting Algorithms, by Shell, ID: #101*
+Twists, by Danger, ID: #122
+Textures, by Weaver, ID: #139*
+Test Book, by Redds, ID: #154
+Purple Prose, by Trops, ID: #157
+Night Game, by White, ID: #174
+Another Fantasy, by Faria, ID: #177*
+Lifts, by Chang, ID: #199*
+--------------------
+Quitting Program...
